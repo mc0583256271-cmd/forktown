@@ -1,0 +1,41 @@
+{
+  "id": "elm-haven",
+  "name": "Elm Haven",
+  "creator": "mc0583256271-cmd",
+  "plot": "G12",
+  "building": "bookshop",
+  "color": "#AD88AE",
+  "decoration": "bench",
+  "story": "A beautiful and sweet house",
+  "design": {
+    "wall": "#F0E5C8",
+    "trim": "#9e7e61",
+    "floors": 2,
+    "roof": "classic",
+    "windows": "shutters",
+    "garden": "wildflowers",
+    "feature": "porch"
+  },
+  "resident": {
+    "name": "Inez",
+    "figure": "male",
+    "skin": "#D9B68B",
+    "hair": "#675A48",
+    "outfit": "#789B76",
+    "accessory": "none",
+    "greeting": "Hello!",
+    "routine": {
+      "morning": "work",
+      "afternoon": "stroll",
+      "evening": "home",
+      "night": "sleep"
+    }
+  },
+  "sign": {
+    "mode": "text",
+    "text": "HELLO",
+    "color": "#FFF4D4",
+    "background": "#35554A",
+    "html": ""
+  }
+}
